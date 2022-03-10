@@ -39,7 +39,7 @@
 <a href="https://sami-temimi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-mywebsite-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/temimi-sami/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mylinkedin-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href="myinstagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-myinstagram-blue?style=flat-square&logo=instagram"></a> -->
-<a href="Business.samy@hotmail.fr"><img alt="Email" src="https://img.shields.io/badge/Email-mymail-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:Business.samy@hotmail.fr"><img alt="Email" src="https://img.shields.io/badge/Email-mymail-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!-- ⭐️ From [AVS1508](https://github.com/AVS1508) -->
