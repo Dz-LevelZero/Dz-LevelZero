@@ -1,11 +1,11 @@
-<h2> Hey there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sami,
+<h2> Hey there ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sami,
   a Bachelor Degree in Business Sciences from eHEC Algiers reconverted to The Web Development. </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; I’m currently a full-stack Junior Web Developer (MERN stack). 
 - 👯 &nbsp; I’m looking for a software development internship and looking for opportunities. 
-- 🌱 &nbsp; I love to learn and contribute in any and every possible way..
+- 🌱 &nbsp; I love to learn and contribute in any and every possible way...
 - ✍️ &nbsp; I'm learning and exploring new technologies and developing software solutions and quick hacks.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -28,7 +28,7 @@
 
 <a href="https://github.com/Dz-LevelZero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dz-LevelZero&theme=buefy&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dz-LevelZero&theme=buefy&layout=compact" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dz-LevelZero&theme=buefy&layout=compact" />
 </a>
 
 <br/>
