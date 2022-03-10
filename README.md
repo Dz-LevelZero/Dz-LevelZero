@@ -33,13 +33,13 @@
 
 <br/>
 
-<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="mywebsite"><img alt="Website" src="https://img.shields.io/badge/Website-mywebsite-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mylinkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mylinkedin-blue?style=flat-square&logo=linkedin"></a>
 <a href="myinstagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-myinstagram-blue?style=flat-square&logo=instagram"></a>
 <a href="mymail"><img alt="Email" src="https://img.shields.io/badge/Email-mymail-blue?style=flat-square&logo=gmail"></a>
-</p> -->
+</p>
 
 <!-- ⭐️ From [AVS1508](https://github.com/AVS1508) -->
