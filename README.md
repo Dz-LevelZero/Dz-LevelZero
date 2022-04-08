@@ -1,5 +1,5 @@
 <h2> Hey there ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sami,
-  a Bachelor Degree in Business Sciences from eHEC Algiers 2010 reconverted to The Web Development since 2019 . </h2>
+  a Bachelor Degree in Business Sciences from HEC Algiers 2010 reconverted to The Web Development since 2019 . </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
