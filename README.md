@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently a full-stack Junior Web Developer (MERN stack). 
 - 👯 &nbsp; I’m looking for a software development internship and looking for opportunities. 
 - 🌱 &nbsp; I love to learn and contribute in any and every possible way...
-- ✍️ &nbsp; I'm learning and exploring new technologies and developing software solutions and quick hacks.
+- ✍️ &nbsp; I'm learning and exploring new technologies and developing software solutions and quick hacks .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
